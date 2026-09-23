@@ -1,1 +1,0 @@
-model.save("house_price_model/house_price_model.keras")
